@@ -1,0 +1,11 @@
+id,name,pickupLocation,tier
+101,Alice,CBD,1
+102,Bob,Airport,2
+103,Charlie,University,3
+104,David,Hospital,4
+105,Emma,ShoppingMall,5
+106,Frank,CBD,2
+107,Grace,Airport,1
+108,Henry,University,3
+109,Isabella,Hospital,4
+110,Jack,ShoppingMall,5

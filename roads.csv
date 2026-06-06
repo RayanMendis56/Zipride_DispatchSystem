@@ -1,0 +1,13 @@
+from,to,weight
+CBD,Airport,25
+CBD,University,15
+CBD,ShoppingMall,10
+University,SuburbNorth,20
+University,SuburbSouth,18
+SuburbNorth,Hospital,12
+SuburbSouth,Hospital,14
+Hospital,IndustrialPark,16
+Airport,IndustrialPark,30
+ShoppingMall,SuburbNorth,22
+SuburbNorth,SuburbSouth,8
+CBD,Hospital,35

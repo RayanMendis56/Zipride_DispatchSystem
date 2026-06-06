@@ -1,0 +1,6 @@
+id,name,location,status
+201,DriverA,CBD,Available
+202,DriverB,Airport,Available
+203,DriverC,University,Available
+204,DriverD,Hospital,Available
+205,DriverE,ShoppingMall,Busy
